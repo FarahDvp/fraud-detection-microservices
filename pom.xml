@@ -12,6 +12,7 @@
   <url>https://www.farahdvp.com</url>
   <modules>
     <module>customer</module>
+      <module>fraud</module>
   </modules>
 
   <properties>

@@ -1,8 +1,8 @@
-package com.farahdvp.customer;
+package com.farahdvp.fraud;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface CustomerRepository extends JpaRepository<Customer, Integer> {
+public interface FraudCheckHistoryRepository extends JpaRepository<FraudCheckHistory, Integer> {
 }
