@@ -1,0 +1,7 @@
+com\farahdvp\fraud\FraudController.class
+com\farahdvp\fraud\FraudCheckHistoryRepository.class
+com\farahdvp\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\farahdvp\fraud\FraudCheckService.class
+com\farahdvp\fraud\FraudApplication.class
+com\farahdvp\fraud\FraudCheckResponse.class
+com\farahdvp\fraud\FraudCheckHistory.class

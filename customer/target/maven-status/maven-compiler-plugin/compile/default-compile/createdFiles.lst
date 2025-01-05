@@ -1,6 +1,8 @@
+com\farahdvp\customer\CustomerConfig.class
 com\farahdvp\customer\CustomerRepository.class
 com\farahdvp\customer\CustomerApplication.class
 com\farahdvp\customer\CustomerRegistrationRequest.class
+com\farahdvp\customer\FraudCheckResponse.class
 com\farahdvp\customer\CustomerService.class
 com\farahdvp\customer\Customer.class
 com\farahdvp\customer\Customer$CustomerBuilder.class

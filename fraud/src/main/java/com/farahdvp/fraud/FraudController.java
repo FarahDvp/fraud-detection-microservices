@@ -18,3 +18,5 @@ public class FraudController {
         return new FraudCheckResponse(isFraudulentCustomer);
     }
 }
+
+
